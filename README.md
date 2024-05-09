@@ -46,7 +46,11 @@ How volatile is the exchange rate between Currency A and Currency B?
 
 ![Density Plot](https://github.com/yousefsersy/Project-1---Pecunia/blob/main/images/Desity%20Plot.png)
 
-![]
+![Final Forecasted Exchange Rates](https://github.com/yousefsersy/Project-1---Pecunia/blob/main/images/Distribution%20Forecast.png)
+
+![Monte Carlo Simulation](https://github.com/yousefsersy/Project-1---Pecunia/blob/main/images/Monte%20Carlo.png)
+
+![Historical USD/Euro Closing Prices](https://github.com/yousefsersy/Project-1---Pecunia/blob/main/images/USD%20Euro%20Closing%20Prices.png)
 
 **Tasks**:
 Proposal- All
