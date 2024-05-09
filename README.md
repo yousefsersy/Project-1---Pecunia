@@ -40,6 +40,13 @@ How volatile is the exchange rate between Currency A and Currency B?
 
 *Volatility of Historical Exchange Rate*: With the help of some historical data retrieved from NASDAQ, we were able to create a 21-day rolling standard deviation plot which showed us how volatile the exchange rate is between USD and the Euro. We concluded that the volatility changes over time based on economic and political events.
 
+![21 Day Rolling Standard Plot](https://github.com/yousefsersy/Project-1---Pecunia/blob/main/images/21%20Day%20Rolling%20Standard.png)
+
+![Daily Returns Plot](https://github.com/yousefsersy/Project-1---Pecunia/blob/main/images/Daily%20Returns.png)
+
+![Density Plot](https://github.com/yousefsersy/Project-1---Pecunia/blob/main/images/Desity%20Plot.png)
+
+![]
 
 **Tasks**:
 Proposal- All
