@@ -28,14 +28,23 @@ Output Presentation: Predicted exchange rates are presented to the user in a cle
 
 **Research Questions**
 What is the current exchange rate between Currency A and Currency B?
-What is the predicted exchange rate between Currency A and Currency B in 6 months?
+What is the predicted exchange rate between Currency A and Currency B in 1 year?
 How volatile is the exchange rate between Currency A and Currency B?
 
 
+**Major Findings**
+
+*Current Exchange Rates*: We were able to discover the current exchange rates via an API. In addition, it was a challenge to store/restore the data. We were able to resolve this using the %store function. 
+
+*Predicted Exchange Rate*: By translating the data into visualizations such as histograms and density plots, we were able to learn that the exchange rate in 1 year between USD and the Euro has a 95% chance to land between $0.90-$1.22. 
+
+*Volatility of Historical Exchange Rate*: With the help of some historical data retrieved from NASDAQ, we were able to create a 21-day rolling standard deviation plot which showed us how volatile the exchange rate is between USD and the Euro. We concluded that the volatility changes over time based on economic and political events.
+
+
 **Tasks**:
-Read Me- All
+Proposal- All
 Presentation Slides- Elizabeth Ogando
 Data Retrieval and Cleaning- Elizabeth Ogando
 Build Form- Jill Baker
-Show Historic Data- Josue St. Louis
-Show Predictive Analysis- Yousef Sersy
+Show Historic Data- Yousef Sersy
+Show Predictive Analysis- Josue St. Louis
